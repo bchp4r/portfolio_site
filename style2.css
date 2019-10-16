@@ -1,0 +1,45 @@
+#topbanner {border: 1px solid gray;
+	margin: 35px;
+	padding: 80px;
+	background-color:white;
+}
+
+
+
+h1{
+margin-left: 20px;
+font-family: 'Roboto', sans-serif;
+}
+
+#first{
+max-width: 100%;
+display: block;
+/*float: none;*/
+}
+
+/*#second{
+	width: 100%;
+	display: block;
+	float: none;
+}*/
+.description{
+	float: left;
+	border: 1px solid black;
+	width: 30%;
+	margin: 20px;
+	font-family: 'Roboto', sans-serif;
+
+}
+
+/*.description2{
+float: left;
+	border: 1px solid black;
+	width: 40%;
+		margin: 20px;
+	font-family: 'Roboto', sans-serif;
+
+}*/
+
+.secondfloat{
+		
+}

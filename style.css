@@ -1,0 +1,33 @@
+#topbanner {
+	background-color:white;
+}
+#assigments {
+	background-color: white; 
+}
+.rows{
+	border: 1px solid gray;
+	margin: 35px;
+	padding: 80px;
+	font-family: 'Roboto', sans-serif;
+}
+#footer {
+	background-color: white;
+}
+
+
+h1{
+margin-left: 20px;
+font-family: 'Roboto', sans-serif;
+}
+
+.assignment{
+	float: right;
+	border: 1px solid red;
+	width: 50%;
+	font-family: 'Roboto', sans-serif;
+/*	padding: 30px;*/
+}
+
+img{
+	width: 200px;
+}
